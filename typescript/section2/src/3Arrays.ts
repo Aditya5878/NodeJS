@@ -12,3 +12,6 @@ for (let item of duties){
 duties.map(duty =>{
     console.log(duty.toUpperCase())
 });
+
+// map : 
+// array.map((element, index, array) => newElement)   function Signature
